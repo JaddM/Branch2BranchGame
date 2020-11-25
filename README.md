@@ -7,7 +7,7 @@ TECHNICAL SKILLS APPLIED:
 
 - Implemented skeleton animation
 - Adjusted game design, physics, visuals and object movements for a better user-experience
-- //
+- /
 ![picture](screenshots/branch2branch1.jpg)
 ![picture](screenshots/branch2branch2.jpg)
 
